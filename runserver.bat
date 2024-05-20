@@ -1,0 +1,1 @@
+%~dp0\artifacts\FXServer +set citizen_dir %~dp0\artifacts\citizen\ +exec server.cfg
